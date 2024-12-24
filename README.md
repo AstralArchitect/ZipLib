@@ -32,3 +32,6 @@ It is a fork of https://bitbucket.org/wbenny/ziplib with own adjustments and unm
 ## License
 
 Original software belongs to Petr Benes (see `Licence.txt` file).
+
+## Pourquoi ?
+Ce repo a été cré pour faire fonctionner mon projet [The Word CLI](https://github.com/The-Word_CLI/).
